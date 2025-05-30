@@ -2,7 +2,7 @@
 <h1 align="center">Phoenix Daemon</h1>
 
 ## Overview
-Phoenix Daemon is the daemon for the Draco Panel.
+Phoenix Daemon is the daemon for the Phoenix Panel.
 
 ## Installation
 1. Clone the repository:
